@@ -22,7 +22,7 @@
       }
     ]
   },
-  "research": [
+  "experience": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -33,7 +33,7 @@
       "highlights": ["Relativity"]
     }
   ],
-  "teaching": [
+  "volunteer": [
     {
       "organization": "Mount Tamalpais College",
       "location": "San Quentin, California",
