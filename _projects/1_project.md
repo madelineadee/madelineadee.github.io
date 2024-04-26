@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Use of Force in Carceral Facilities: Addressing a hidden health policy issue in California
+description: Current dissertation work. 
+img: assets/img/bar_all.png
 importance: 1
-category: work
-related_publications: true
+category: current
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
