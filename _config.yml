@@ -590,10 +590,9 @@ jekyll_get_json:
 jsonresume:
   - basics
   - research
-  - work
+  - teaching
   - publications
   - projects
-  - volunteer
   - awards
   - certificates
   - skills
