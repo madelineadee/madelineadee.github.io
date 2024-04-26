@@ -3,8 +3,11 @@
   {% for content in research %}
     <li class="list-group-item">
       <h6 class="title font-weight-bold">
-        <a href="{{ content.url }}">{{ content.position }}</a>
+        {{ content.position }}
       </h6>
+      {% if content.company %}
+        <h6 style="font-size: 0.95rem">{{ content.company }}</h6>
+      {% endif %}
       {% if content.location %}
         <p class="location">
           <i class="fa-solid fa-location-dot iconlocation"></i>
@@ -16,9 +19,11 @@
         {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
         {% assign date = startDate | append: ' - ' %}
         {% assign date = date | append: endDate %}
-        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
+        <div style="padding-bottom: 10px;">
+          <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
+        </div>
       {% endif %}
-      <h6 style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
+      <p style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</p>
       <ul class="items">
         {% for item in content.highlights %}
           <li>

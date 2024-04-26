@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Use of Force in Carceral Facilities: Addressing a hidden health policy issue in California
+title: Use of Force in Carceral Facilities
 description: Current dissertation work. 
 img: assets/img/bar_all.png
 importance: 1
