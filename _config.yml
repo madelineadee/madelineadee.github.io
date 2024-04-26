@@ -590,7 +590,7 @@ jekyll_get_json:
 jsonresume:
   - basics
   - research
-  - experience
+  - work
   - publications
   - projects
   - volunteer
