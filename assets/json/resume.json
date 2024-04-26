@@ -25,44 +25,46 @@
     {
       "company": "Columbia University",
       "position": "Research Consultant",
-      "startDate": "March 2024",
-      "endDate": "present",
+      "startDate": "2024-03",
       "summary": "Leading analysis of Oakland Police Department stops and involuntary commitment."
     },
     {
       "company": "University of California, San Francisco",
+      "location": "Oregon & California",
       "position": "Graduate Student Researcher",
-      "startDate": "May 2022",
-      "endDate": "August 2022",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
       "summary": "Worked on projects related to improving health and medical care within state prisons.",
-      "highlights": ["Relativity"]
+      "highlights": ["Interviewed incarcerated women about medical care and hospice care (CA)", "Evaluated progress of corrections officer culture change program (OR)"]
     },
     {
       "company": "University of California, Berkeley",
+      "location": "California",
       "position": "Graduate Student Researcher",
-      "startDate": "August 2021",
-      "endDate": "January 2022",
+      "startDate": "2021-08",
+      "endDate": "2022-01",
       "summary": "Worked on research for the California Prison Roadmap for Targeting Efforts to Address the Ecosystem of COVID Transmission (CalPROTECT)."
     },
     {
       "company": "Institute for Technology Assessment, Massachusetts General Hospital",
+      "location": "Boston, Massachusetts",
       "position": "Programmer Analyst",
-      "startDate": "June 2019",
-      "endDate": "August 2021",
+      "startDate": "2019-06",
+      "endDate": "2021-08",
       "summary": "Worked on cost-effectiveness and disease outcomes studies, in the topic areas of hepatitis C, liver cancer, opioid use disorder, and COVID-19."
     },
     {
       "company": "Center for the Health of Incarcerated Persons, Rollins School of Public Health, Emory University",
       "position": "Research Assistant",
-      "startDate": "August 2017",
-      "endDate": "May 2019",
+      "startDate": "2017-08",
+      "endDate": "2019-05",
       "summary": "Assisted with various research projects focused on infectious disease distribution, access to treatment, policy change, and linkage to care after release, among individuals who are incarcerated."
     },
     {
       "company": "Portland State University",
       "position": "Research Assistant",
-      "startDate": "June 2015",
-      "endDate": "September 2016",
+      "startDate": "2015-06",
+      "endDate": "2016-09",
       "summary": "Assisted with quantitative and qualitative analysis for the Anthropology department and a systematic literature review in the School of Community Health."
     }
   ],
