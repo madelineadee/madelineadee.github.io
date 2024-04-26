@@ -229,31 +229,36 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming & Computing",
+      "icon": "fa-solid fa-bug-slash",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "R, R Studio, R Shiny, R Markdown, & Quarto",
+        "Python & Jupiter notebooks",
+        "Git & GitHub",
+        "SQL",
+        "Microsoft Azure",
+        "Cloud computing", 
+        "Google Colab", 
+        "Web scraping", 
+        "LaTeX", 
+        "MaxQDA"
+      ]
+    }
+
+    {
+      "name": "Research Methods",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": [
+        "Statistics",
+        "Machine learning",
+        "Natural language processing",
+        "Causal inference",
+        "Data visualization", 
+        "Qualitative coding"
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
+
   "interests": [
     {
       "name": "Physics",
@@ -278,16 +283,6 @@
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
