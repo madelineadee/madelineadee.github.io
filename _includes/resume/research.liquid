@@ -1,7 +1,6 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign sorted_research = data[1] | sort: 'endDate' %}
-  {% assign present_jobs = sorted_research | where: "endDate", "PRESENT" %}
-  {% assign past_jobs = sorted_research | where: "endDate", "PRESENT", "!=" %}
+  {% assign present_jobs = data[1] | where: "endDate", "PRESENT" %}
+  {% assign past_jobs = data[1] | where: "endDate", "PRESENT", true %}
   {% assign research = present_jobs | concat: past_jobs %}
   {% for content in research %}
     <li class="list-group-item">
@@ -37,3 +36,4 @@
     </li>
   {% endfor %}
 </ul>
+
