@@ -15,19 +15,16 @@
           <table class="table-cv">
             <tbody>
               <tr>
-                <h6 class="title font-weight-bold ml-1 ml-md-4">
-                  <a href="{{ content.url }}">{{ content.position }}</a>
-                </h6>
+                <td>
+                  <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
+                </td>
               </tr>
-              {% if content.company %}
+              {% if content.location %}
                 <tr>
-                  <td>
-                    <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
-                  </td>
                   <td>
                     <p class="location">
                       <i class="fa-solid fa-location-dot iconlocation"></i>
-                      {{ content.company }}
+                      {{ content.location }}
                     </p>
                   </td>
                 </tr>
@@ -36,9 +33,10 @@
           </table>
         </div>
       </div>
-      <div class="row">
         <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
-
+          <h6 class="title font-weight-bold ml-1 ml-md-4">
+            <a href="{{ content.url }}">{{ content.position }}</a>
+          </h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.name }}</h6>
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
           <ul class="items">
