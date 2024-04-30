@@ -76,16 +76,8 @@
       "location:": "Berkeley, CA",
       "position": "Lead Graduate Student Instructor",
       "course": "R for Public Health (PHW251)",
-      "semesters": "Fall 2023", 
+      "semesters": "Fall 2023, Summer 2024 (CDPH course)",
       "order": "1"
-    },
-    {
-      "institution": "University of California, Berkeley",
-      "location:": "Berkeley, CA",
-      "position": "Graduate Student Instructor",
-      "course": "Practicum in MCH Data Analysis II (PBHLTH 210F)",
-      "semesters": "Spring 2023", 
-      "order": "3"
     },
     {
       "institution": "University of California, Berkeley",
@@ -96,20 +88,37 @@
       "order": "2"
     },
     {
+      "institution": "Mount Tamalpais College",
+      "location": "San Quentin State Prison, CA",
+      "position": "Instructor",
+      "course": "Developmental math (Math 50A), Intro to Public Health (HED 220)",
+      "semesters": "Spring 2022 and 2023, Fall 2023", 
+      "order": "3"
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "location:": "Berkeley, CA",
+      "position": "Graduate Student Instructor",
+      "course": "Practicum in MCH Data Analysis II (PBHLTH 210F)",
+      "semesters": "Spring 2023", 
+      "order": "4"
+    },
+
+    {
       "institution": "Petey Greene Program",
       "location": "Massachusetts Correctional Institution - Framingham, MA",
       "position": "Teaching Assistant",
       "course": "Undergraduate Level Statistics Course",
       "semesters": "Fall 2019", 
-      "order": "4"
+      "order": "5"
     },
     {
       "institution": "Rollins School of Public Health, Emory University",
       "location": "Atlanta, GA",
       "position": "Teaching Assistant",
       "course": "Introduction to the U.S. Healthcare System (HPM 500)",
-      "semesters": "Fall 2018 and Spring 2019", 
-      "order": "5"
+      "semesters": "Fall 2018, Spring 2019", 
+      "order": "6"
     },
     {
       "institution": "Emory University",
@@ -117,7 +126,7 @@
       "position": "Teaching Assistant",
       "course": "Undergraduate Level HLTH 385-6: Delivering Health",
       "semesters": "Fall 2018", 
-      "order": "6"
+      "order": "7"
 
     },
     {
@@ -126,15 +135,15 @@
       "position": "Correctional Health Program Intern",
       "course": "Harm Reduction and Hepatitis-focused Classes",
       "semesters": "May – July 2018", 
-      "order": "7"
+      "order": "8"
     },
     {
       "institution": "University Studies Program, Portland State University",
       "location": "Portland, OR",
       "position": "Peer Mentor",
       "course": "Yearlong Interdisciplinary Race & Social Justice Course",
-      "semesters": "September 2015 – June 2016", 
-      "order": "8"
+      "semesters": "Fall 2015, Winter 2016, Spring 2016", 
+      "order": "9"
 
     }
   ],
@@ -145,8 +154,9 @@
       "area": "Health Policy, Population Health and Data Science",
       "studyType": "PhD",
       "startDate": "2021",
-      "endDate": "Expected May 2025",
-      "courses": ["Statistics, data science, causal inference, machine learning, reproducible research, critical theory"]
+      "endDate": "May 2025 (expected)",
+      "courses": ["Statistics, data science, causal inference, machine learning, reproducible research, critical theory"],
+      "order": 1
     },
     {
       "institution": "Rollins School of Public Health, Emory University",
@@ -154,7 +164,8 @@
       "area": "Health Policy and Management",
       "studyType": "Master of Public Health",
       "startDate": "",
-      "endDate": "May 2019"
+      "endDate": "May 2019", 
+      "order": "2"
     },
     {
       "institution": "Portland State University",
@@ -162,7 +173,8 @@
       "area": "Anthropology, Biology",
       "studyType": "Bachelor of Science",
       "startDate": "",
-      "endDate": "June 2016"
+      "endDate": "June 2016", 
+      "order": 3
     }
   ],
   "awards": [
