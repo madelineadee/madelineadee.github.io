@@ -26,7 +26,17 @@
       "location": "Oakland, CA (remote)",
       "position": "Consultant",
       "startDate": "2024-03",
-      "summary": "Leading analysis of Oakland Police Department stops and involuntary commitment."
+      "summary": "Leading analysis of Oakland Police Department stops and involuntary commitment.",
+      "order": "1"
+    },
+    {
+      "company": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "position": "Human Rights Center Summer Fellow",
+      "startDate": "2023-05",
+      "endDate": "2023-10",
+      "summary": "Worked with the American Friends Service Committee to conduct research into the use of force in California state prisons.", 
+      "order": "2"
     },
     {
       "company": "University of California, San Francisco",
@@ -35,7 +45,8 @@
       "startDate": "2022-05",
       "endDate": "2022-08",
       "summary": "Worked on projects related to improving health and medical care within state prisons.",
-      "highlights": ["Interviewed incarcerated women about medical care and hospice care (CA)", "Evaluated progress of corrections officer culture change program (OR)"]
+      "highlights": ["Interviewed incarcerated women about medical care and hospice care (CA)", "Evaluated progress of corrections officer culture change program (OR)"], 
+      "order": "3"
     },
     {
       "company": "University of California, Berkeley",
@@ -43,7 +54,8 @@
       "position": "Graduate Student Researcher",
       "startDate": "2021-08",
       "endDate": "2022-01",
-      "summary": "Worked on research for the California Prison Roadmap for Targeting Efforts to Address the Ecosystem of COVID Transmission (CalPROTECT)."
+      "summary": "Worked on research for the California Prison Roadmap for Targeting Efforts to Address the Ecosystem of COVID Transmission (CalPROTECT).",
+      "order": "4"
     },
     {
       "company": "Institute for Technology Assessment, Massachusetts General Hospital",
@@ -51,7 +63,8 @@
       "position": "Programmer Analyst",
       "startDate": "2019-06",
       "endDate": "2021-08",
-      "summary": "Worked on cost-effectiveness and disease outcomes studies, in the topic areas of hepatitis C, liver cancer, opioid use disorder, and COVID-19."
+      "summary": "Worked on cost-effectiveness and disease outcomes studies, in the topic areas of hepatitis C, liver cancer, opioid use disorder, and COVID-19.", 
+      "order": "5"
     },
     {
       "company": "Center for the Health of Incarcerated Persons, Rollins School of Public Health, Emory University",
@@ -59,7 +72,8 @@
       "position": "Research Assistant",
       "startDate": "2017-08",
       "endDate": "2019-05",
-      "summary": "Assisted with various research projects focused on infectious disease distribution, access to treatment, policy change, and linkage to care after release, among individuals who are incarcerated."
+      "summary": "Assisted with various research projects focused on infectious disease distribution, access to treatment, policy change, and linkage to care after release, among individuals who are incarcerated.", 
+      "order": "6"
     },
     {
       "company": "Portland State University",
@@ -67,7 +81,8 @@
       "position": "Research Assistant",
       "startDate": "2015-06",
       "endDate": "2016-09",
-      "summary": "Assisted with quantitative and qualitative analysis for the Anthropology department and a systematic literature review in the School of Community Health."
+      "summary": "Assisted with quantitative and qualitative analysis for the Anthropology department and a systematic literature review in the School of Community Health.", 
+      "order": "7"
     }
   ],
   "teaching": [
