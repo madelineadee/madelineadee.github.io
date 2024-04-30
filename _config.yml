@@ -304,7 +304,8 @@ scholar:
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
   bibtex_filters: [latex, smallcaps, superscript]
-
+  type_names: { article: Journal Articles, proceedings: Conference Presentations }
+  type_aliases: { inproceedings: proceedings}
   replace_strings: true
   join_strings: true
 
