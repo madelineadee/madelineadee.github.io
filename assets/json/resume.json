@@ -76,42 +76,48 @@
       "location:": "Berkeley, CA",
       "position": "Lead Graduate Student Instructor",
       "course": "R for Public Health (PHW251)",
-      "dates": "Fall 2023"
+      "semesters": "Fall 2023", 
+      "order": "1"
     },
     {
       "institution": "University of California, Berkeley",
       "location:": "Berkeley, CA",
       "position": "Graduate Student Instructor",
       "course": "Practicum in MCH Data Analysis II (PBHLTH 210F)",
-      "dates": "Spring 2023"
+      "semesters": "Spring 2023", 
+      "order": "3"
     },
     {
       "institution": "University of California, Berkeley",
       "location": "Berkeley, CA",
       "position": "Graduate Student Instructor",
       "course": "Health Policy and Management Breadth Course (PHW200E)",
-      "dates": "Summer 2022, 2023, and 2024"
+      "semesters": "Summer 2022, 2023, and 2024", 
+      "order": "2"
     },
     {
       "institution": "Petey Greene Program",
       "location": "Massachusetts Correctional Institution - Framingham, MA",
       "position": "Teaching Assistant",
       "course": "Undergraduate Level Statistics Course",
-      "dates": "Fall 2019"
+      "semesters": "Fall 2019", 
+      "order": "4"
     },
     {
       "institution": "Rollins School of Public Health, Emory University",
       "location": "Atlanta, GA",
       "position": "Teaching Assistant",
       "course": "Introduction to the U.S. Healthcare System (HPM 500)",
-      "dates": "Fall 2018 and Spring 2019"
+      "semesters": "Fall 2018 and Spring 2019", 
+      "order": "5"
     },
     {
       "institution": "Emory University",
       "location": "Atlanta, GA",
       "position": "Teaching Assistant",
       "course": "Undergraduate Level HLTH 385-6: Delivering Health",
-      "dates": "Fall 2018"
+      "semesters": "Fall 2018", 
+      "order": "6"
 
     },
     {
@@ -119,14 +125,16 @@
       "location": "Seattle, WA",
       "position": "Correctional Health Program Intern",
       "course": "Harm Reduction and Hepatitis-focused Classes",
-      "dates": "May – July 2018"
+      "semesters": "May – July 2018", 
+      "order": "7"
     },
     {
       "institution": "University Studies Program, Portland State University",
       "location": "Portland, OR",
       "position": "Peer Mentor",
       "course": "Yearlong Interdisciplinary Race & Social Justice Course",
-      "dates": "September 2015 – June 2016"
+      "semesters": "September 2015 – June 2016", 
+      "order": "8"
 
     }
   ],
