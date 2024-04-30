@@ -87,9 +87,6 @@ html[data-theme="dark"] {
   .repo-img-dark {
     display: block;
   }
-  .h6 {
-  color: var(--global-theme-color);
-  }
 }
 
 html[data-theme-setting="dark"] {
@@ -124,3 +121,6 @@ html[data-theme-setting="light"] {
   }
 }
 
+h6 {
+  color: var(--global-theme-color);
+}
