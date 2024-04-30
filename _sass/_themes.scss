@@ -121,6 +121,15 @@ html[data-theme-setting="light"] {
   }
 }
 
+/* Your h6 text color styling */
 h6 {
-  color: var(--global-theme-color);
+  color: var(--global-theme-color); /* Default color */
+}
+
+html[data-theme="dark"] h6 {
+  color: var(--global-theme-color); /* Dark mode color */
+}
+
+html[data-theme="light"] h6 {
+  color: var(--global-theme-color); /* Light mode color */
 }

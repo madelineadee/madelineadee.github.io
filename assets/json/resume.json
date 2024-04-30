@@ -167,9 +167,9 @@
       "institution": "University of California, Berkeley",
       "location": "Berkeley, CA",
       "area": "Health Policy, Population Health and Data Science",
-      "studyType": "PhD",
+      "studyType": "PhD (expected)",
       "startDate": "2021",
-      "endDate": "May 2025 (expected)",
+      "endDate": "May 2025",
       "courses": ["Statistics, data science, causal inference, machine learning, reproducible research, critical theory"],
       "order": 1
     },
