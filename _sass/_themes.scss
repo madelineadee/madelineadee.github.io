@@ -122,14 +122,14 @@ html[data-theme-setting="light"] {
 }
 
 /* Your h6 text color styling */
-h6 {
+h6.title {
   color: var(--global-theme-color); /* Default color */
 }
 
-html[data-theme="dark"] h6 {
+html[data-theme="dark"] h6.title {
   color: var(--global-theme-color); /* Dark mode color */
 }
 
-html[data-theme="light"] h6 {
+html[data-theme="light"] h6.title {
   color: var(--global-theme-color); /* Light mode color */
 }
