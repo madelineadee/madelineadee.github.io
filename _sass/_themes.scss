@@ -133,3 +133,17 @@ html[data-theme="dark"] h6.title {
 html[data-theme="light"] h6.title {
   color: var(--global-theme-color); /* Light mode color */
 }
+
+
+/* Your h6 text color styling */
+h3.title {
+  color: var(--global-theme-color); /* Default color */
+}
+
+html[data-theme="dark"] h3.title {
+  color: var(--global-theme-color); /* Dark mode color */
+}
+
+html[data-theme="light"] h3.title {
+  color: var(--global-theme-color); /* Light mode color */
+}

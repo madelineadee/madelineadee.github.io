@@ -8,14 +8,14 @@ nav_order: 4
 horizontal: false
 ---
 
-
-<h6 class="title font-weight-bold">
+<hr>
+<h3 class="title font-weight-bold">
 Use of Force in Carceral Facilities:
-</h6>
+</h3>
 
-<h6 class="title">
+<h3 class="title">
 Addressing a hidden health policy issue in California
-</h6>
+</h3>
 
 
 <div class="row">
@@ -26,4 +26,10 @@ Addressing a hidden health policy issue in California
 <div class="caption">
     This plot shows the monthly number of use of force incidents involving each type of force, across all California state prisons. Please note that incidents that involve multiple types of force will count towards each relevant category. 
 </div>
+
+<hr>
+
+<h3 class="title font-weight-bold">
+Assessing involuntary commitment and arrest following Oakland Police Department encounters, and the impacts of non-police response
+</h3>
 

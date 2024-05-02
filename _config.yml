@@ -294,7 +294,7 @@ scholar:
   last_name: [Adee]
   first_name: [Madeline, G.]
 
-  style: apa
+  style: american-medical-association
   locale: en
 
   source: /_bibliography/
