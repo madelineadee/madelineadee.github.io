@@ -10,17 +10,17 @@ horizontal: false
 
 <hr>
 <h3 class="title font-weight-bold">
-Use of Force in Carceral Facilities:
+Use of Force in Carceral Facilities
 </h3>
 
-<h3 class="title">
+<h4 class="title">
 Addressing a hidden health policy issue in California
-</h3>
+</h4>
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bar_all.png" title="CDCR use of force by type" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/type_plot.png" title="CDCR use of force by type" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -30,6 +30,8 @@ Addressing a hidden health policy issue in California
 <hr>
 
 <h3 class="title font-weight-bold">
-Assessing involuntary commitment and arrest following Oakland Police Department encounters, and the impacts of non-police response
+Oakland police encounters and involuntary commitment
 </h3>
-
+<h4 class="title">
+Assessing involuntary commitment and arrest following Oakland Police Department encounters, and the impacts of non-police response
+</h4>
