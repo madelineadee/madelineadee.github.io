@@ -8,31 +8,22 @@ nav_order: 4
 horizontal: false
 ---
 
-# Use of Force in Carceral Facilities
 
-## Addressing a hidden health policy issue in California
+<h6 class="title font-weight-bold">
+Use of Force in Carceral Facilities:
+</h6>
+
+<h6 class="title">
+Addressing a hidden health policy issue in California
+</h6>
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bar_all.png" title="CDCR use of force by type" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    This plot shows the monthly number of use of force incidents involving each type of force, across all California state prisons. Please note that incidents that involve multiple types of force will count towards each relevant category. 
 </div>
 
